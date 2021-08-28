@@ -8,7 +8,6 @@ function Login () {
     <form className="form">
       <Input type="text" placeholder="Username" />
       <Input type="Password" placeholder="Password" />
-      <Input type="Password" placeholder="Confirm Password" />
       <button type="submit">Login</button>
     </form>
   );
